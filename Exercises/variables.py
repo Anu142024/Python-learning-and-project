@@ -10,4 +10,4 @@ x = 50
 
 print(x)
 '''Python interpreter only takes the last value that is assigned to the variable
-So that means only one value can be assigned at a time .'''
+So that means only one value can be assigned at a time to a variable.'''
