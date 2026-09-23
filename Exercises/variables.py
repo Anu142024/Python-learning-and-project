@@ -11,3 +11,13 @@ x = 50
 print(x)
 '''Python interpreter only takes the last value that is assigned to the variable
 So that means only one value can be assigned at a time to a variable.'''
+
+# Swapping
+
+a = 50
+b = 60
+
+a,b = b,a
+
+print("This value is now a =", a)
+print("This value is now b =", b)
